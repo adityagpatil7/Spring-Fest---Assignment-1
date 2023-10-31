@@ -1,3 +1,3 @@
 # Spring-Fest---Assignment-1
 
-Start with SpringFest.html file.
+For opening Home Page , Open SpringFest.html file .
