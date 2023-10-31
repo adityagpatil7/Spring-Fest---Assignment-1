@@ -1,0 +1,171 @@
+*{
+    margin:0;
+    
+
+}
+
+.navbar{
+    background-color: grey;
+    height:50px;
+    
+}
+
+#home{
+    margin-right: 200px;
+    margin-left:100px;
+    color:white;
+    position: relative;
+    top:14px;
+    font-size: 20px;
+    text-decoration: none;
+}
+#project{
+    margin-right: 200px;
+    color:white;
+    position: relative;
+    top:14px;
+    font-size: 20px;
+    text-decoration: none;
+}
+#skills{
+    margin-right: 200px;
+    color:white;
+    position: relative;
+    top:14px;
+    font-size: 20px;
+    text-decoration: none;
+}
+#contact{
+    margin-right: 200px;
+    color:white;
+    position: relative;
+    top:14px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+
+
+#home:hover{
+    border:2px solid white;
+    font-size:20px ;
+    padding: 2px;
+}
+#project:hover{
+    border:2px solid white;
+    font-size:20px ;
+    padding: 2px;
+}
+#skills:hover{
+    border:2px solid white;
+    font-size:20px ;
+    padding: 2px;
+}
+#contact:hover{
+    border:2px solid white;
+    font-size:20px ;
+    padding: 2px;
+}
+
+#image{
+    background-image: url(image.jpeg) ;
+    background-size: cover;
+    opacity: 0.75;
+    
+    height:100%;
+    width:100%;
+}
+
+h1{
+    position: absolute;
+    top:100px;
+    left:600px;
+    color:white;
+}
+
+#box1{
+    background-color: rgb(255, 255,255,0.5);
+    color:black;
+    height: 100px;
+    width: 800px;
+    position: absolute;
+    top:200px;
+    left:350px;
+    border-radius: 5px;
+}
+
+#Name{
+    position: absolute;
+    top:350px;
+    left:350px;
+}
+
+#Email{
+    position: absolute;
+    top:390px;
+    left:350px;
+
+}
+
+#Date{
+    position: absolute;
+    top:430px;
+    left:350px;
+
+}
+
+#textarea{
+    height:200px;
+    width:200px;
+    position:absolute;
+    top:350px;
+    left:850px;
+}
+
+button{
+    background-color: rgb(red, green, blue,0.5);
+    color:black;
+    position:absolute;
+    top:470px;
+    left:710px;
+}
+
+button:hover{
+    background-color: bisque;
+    border: 2px solid black;
+
+}
+
+#name{
+    height: 25px;
+    width: 300px;
+    background-color: white;
+}
+
+#email{
+    height: 25px;
+    width: 300px;
+    background-color: white;
+}
+
+#date{
+    height: 25px;
+    width: 300px;
+    background-color: white;
+}
+
+#textarea{
+    height :110px;
+    width:300px;
+    background-color: white;
+}
+
+button{
+    height: 40px;
+    width: 80px;
+    background-color: lightgray;
+    border: 5px sollid black;
+    
+}
+
